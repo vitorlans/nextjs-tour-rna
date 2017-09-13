@@ -1,37 +1,20 @@
 import React, { Component } from 'react';
 import { AppRegistry } from 'react-native';
-import { Container, Header, Title, Content, Footer, FooterTab, Button, Left, Right, Body, Icon, Text } from 'native-base';
+import { Provider } from 'react-redux'
+
+import configureStore from './shared/configureStore'
+import AppNavigation from './shared/AppNavigation';
+
+const store = configureStore()
 
 class App extends Component {
-  render() {
-    return (
-      <Container>
-        <Header>
-          <Left>
-            <Button transparent>
-              <Icon name='menu' />
-            </Button>
-          </Left>
-          <Body>
-            <Title>Excursão</Title>
-          </Body>
-          <Right />
-        </Header>
-        <Content>
-          <Text>
-            This is Content Section
-          </Text>
-        </Content>
-        <Footer>
-          <FooterTab>
-            <Button full>
-              <Text>Footer</Text>
-            </Button>
-          </FooterTab>
-        </Footer>
-      </Container>
-    );
-  }
+	render() {
+		return (
+			<Provider store={store} >
+				<AppNavigation/>
+			</Provider>
+		);
+	}
 }
 
 AppRegistry.registerComponent('tour', () => App);

@@ -1,0 +1,42 @@
+{  
+   "id":"1",
+   "title":"Réveillon 17/18",
+   "photos":[  
+      {  
+         "height":128,
+         "width":128,
+         "url":"https://scontent.fcpq5-1.fna.fbcdn.net/v/t1.0-9/21369392_362225324197616_6647386943102562144_n.jpg?oh=7476ef383b62308d1ca8bcd0aadd0caa&oe=5A5D75A0"
+      }
+   ],
+   "content":"☀ Pacote Inclui ☀\n📥 - 🚌 Ida e Volta em Ônibus DD - da Ponce Turismo com Ar Condicionado, 2 Banheiros, Wi-Fi 4G, Tv com DVD, Tomadas 110v e Microondas.\n📥 - 💺 Poltronas Semi-Leito(140°graus de inclinação) com \"Descanso\" para as pernas. \n🔝 - 🛌 Consulte a Opção \"V.I.P\" \nPoltronas Leito-Turismo(180°graus de inclinação) com \"Descanso\" para as pernas.\n📥 - 🍔 Serviço de Bordo (Água\/Refrigerante e Kit Boas Vindas)\n📥 - 🏨 7 dias e 6 noites na Casa Wellber 2 \n📥 - 🍞 5 Cafés da Manhã (28,29,30,31,01)\n📥 - 🍝 2 Jantares* (27\/12 Churrasco de Recepção e 01\/01 Churrasco da Virada) \n📥 - 📶 Wi-Fi nas áreas sociais.\n📥 - 💨 Suítes para 4 e 6 pessoas todas com com Ventilador, Banheiro e TV (Consulte pacote para casais)\n📥 - 🐳 A 2 quarteirões da Praia do Forte e a 3 minutos a Pé do Centro (Queima de Fogos) ✨🎉🎆\n☀ CRONOGRAMA ☀\n📅Dia 26\/12 (Terça-feira) \nSaída do Ônibus às 19:00 na Sede do Projeto Lazer - Rua: Marcelo Perdiza, 151 - Geraldo de Carvalho. \n1° Parada as 19:30 no Auto Posto Maravilha - Av: Francisco Junqueira com Rua Tibiriçá\n2° Parada as 20:10 no Posto da Entrada de CRAVINHOS \nCom previsão de chegada em Cabo Frio as 09:00\n📅Dia 27\/09 (Quarta-feira)\nManhã: Livre\nNoite: Jantar das 19:00 às 21:00 (Churrasco de Recepção)\n📅Dias 28, 29, 30 e 31(Qui, Sex, Sab e Dom)\nManhã: Café da manhã das 07:00 as 10:00\nNoite: Livre\n📅Dia 01\/01 (Segunda-feira *Virada)\nVirada: Churrasco de Confraternização das 01:00 as 03:00\nManhã: Café da manhã das 08:00 as 11:00\nNoite: Livre\n📅Dia 02\/01( Terça-feira)\nManhã: Livre\nTarde: Retorno para Ribeirão Preto as 13:00 com previsão de chegada as 02:00\n💲 Preços por pessoa acima de 6 anos💲\nR$ 1.099,90 p\/ Pessoa 👧👦 👵👴\n👶 Crianças até 05 anos não pagam viajando no colo do responsável. (1 criança a cada 2 bancos)\n❌OBS: Faremos a \"RESERVA DE LUGARES\" mediante pagamento da reserva no valor de R$ 100,00. (Não reembolsamos nenhum valor em caso de desistência)❌\n💱 Dinheiro - entrada + Restante até o dia 21\/12.\n🎫 Parcelamos nos Cartões Visa e Mastercard em até 3x com acréscimo de 6,0%. \n🚫 Sem Consulta ao SCPC ou Serasa.\n✳ Contato para Reservas e Informações ✳\n📤 Pagina oficial do Projeto Lazer no Facebook\n🔘 Link: facebook.com\/projetolazerrp1\n✉ Email: projetolazerrp@hotmail.com\n✆ WhatsApp (16) 99146-1892 - Tiago Pombo.\n#ProjetoLazer #DoeSangue #ObrigadoDeus",
+   "destinyCity":{  
+      "id":"1",
+      "name":"Cabo Frio - RJ"
+   },
+   "originCity":{  
+      "id":"1",
+      "name":"Ribeirão Preto - SP"
+   },
+   "price":1099.90,
+   "startDate":"2017-12-27T08:51:25-03:00",
+   "endDate":"2018-01-02T08:51:25-03:00",
+   "paymentMethod":[  
+      {  
+         "id":"1",
+         "name":"Dinheiro",
+         "content":"Entrada + Restante até o dia 21/12."
+      },
+      {  
+         "id":"2",
+         "name":"Cartao Credito",
+         "content":"Visa/MasterCard ate 3x com acréscimo de 6,0."
+      }
+   ],
+   "createdDate":"2017-09-10T08:51:25-03:00",
+   "userId":82,
+   "spaceAvailable":11,
+   "category":{  
+      "id":"1",
+      "name":"Lazer"
+   }
+}
