@@ -33,7 +33,6 @@ export function getToursFailure() {
   }
 }
 
-
 export function fetchTours() {
   return (dispatch) => {
     dispatch(getTours())
