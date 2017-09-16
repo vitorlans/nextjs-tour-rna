@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { FlatList } from 'react-native'
+import { FlatList, Image} from 'react-native'
 import Placeholder from 'rn-placeholder'
 import {
   Container, Header,
@@ -27,7 +27,12 @@ class TourList extends Component {
       lastLineWidth="40%"
     >
     <ListItem onPress={() => this.props.navigation.navigate('TourDetail', item)} >
-       <Text> {item.title} </Text>
+        <Body>
+            <Image source={{uri: item.photos[0].url}} style={{height: 200, width: 200, flex: 1}}/>
+            <Text>
+              {item.title}
+            </Text>
+        </Body>
      </ListItem>
     </Placeholder.ImageContent>
   );
@@ -39,8 +44,8 @@ class TourList extends Component {
         <Header searchBar rounded>
           <Item>
             <Icon name="ios-search" />
-            <Input placeholder="Search" />
-            <Icon name="ios-people" />
+            <Input placeholder="Where?" />
+            <Icon name="ios-pin" />
           </Item>
           <Button transparent>
             <Text>Search</Text>
